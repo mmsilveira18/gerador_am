@@ -20,17 +20,18 @@ Você pode testar o projeto de duas formas:
 
 👉 **Online (sem instalar nada)**  
 Acesse diretamente pelo navegador:  
-[🔗 Visualizar projeto online](https://gerador-de-senhas.streamlit.app)
+[🔗 Visualizar projeto online](https://geradoram.streamlit.app/)
 
 👉 **Localmente (na sua máquina)**  
 Siga os passos abaixo:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/mmsilveira18/gerador-de-senhas.git
+git clone https://github.com/mmsilveira18/gerador_am.git
 
 # Instale o Streamlit
 pip install streamlit
 
 # Execute o app
 streamlit run app.py
+
